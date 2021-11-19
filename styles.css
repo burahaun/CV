@@ -1,0 +1,204 @@
+h1 {
+  margin: 50px auto 0px auto;
+  font-size: 4.375rem;
+  color: #000000
+
+}
+
+p {
+  line-height: 2;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 1.25em;
+
+
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+
+}
+
+.cloud-2 {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.cloud-1 {
+  position: absolute;
+  left: 200px;
+  bottom: 250px;
+
+
+}
+
+.top-container {
+background-color: #B91646;
+position: relative;
+padding-top: 211px;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+
+}
+
+h2 {
+  font-size: 2rem;
+
+  font-weight: bold;
+  color: #000000
+}
+
+h3 {
+  color: #000000
+
+}
+
+.skill-row {
+width: 60%;
+margin: 25px auto 100px auto;
+text-align: left;
+line-height: 2;
+
+}
+
+.coding {
+  width: 25%;
+  float: left;
+  margin: 30px;
+  position: relative;
+  left: -45px;
+  top: -20px;
+
+
+}
+
+.hobbies {
+  width: 25%;
+  float: right;
+position: relative;
+top: -35px;
+margin-left: 50px;
+
+}
+
+.par1 {
+  color: #40514E;
+margin: auto;
+width: 30%;
+padding-bottom: 80px;
+
+}
+
+hr {border-color: #000000;
+border-style: dotted none none;
+border-width: 5px;
+height: 0px;
+width: 4%;
+line-height: 2;
+padding: 35px;
+}
+
+.par5 {
+  text-align: center;
+  padding-bottom: 50px;
+  width: 40%;
+  margin: auto;
+}
+
+
+
+
+
+.btn {
+  background: #B91646;
+  background-image: -webkit-linear-gradient(top, #B91646, #B91646);
+  background-image: -moz-linear-gradient(top, #B91646, #B91646);
+  background-image: -ms-linear-gradient(top, #B91646, #B91646);
+  background-image: -o-linear-gradient(top, #B91646, #B91646);
+  background-image: linear-gradient(to bottom, #B91646, #B91646);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #000000);
+  background-image: -moz-linear-gradient(top, #000000, #000000);
+  background-image: -ms-linear-gradient(top, #000000, #000000);
+  background-image: -o-linear-gradient(top, #000000, #000000);
+  background-image: linear-gradient(to bottom, #000000, #000000);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #B91646;
+  margin: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 50px;
+}
+
+
+.bottom-p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 40px;
+  color: #000000;
+  font-size: .75rem;
+
+}
+
+.footer-link {
+  padding-left: 35px;
+  padding-right: 35px;
+
+}
+
+.contact-me {
+  padding-bottom: 100px;
+}
+
+.getintouch {
+  font-size: 3rem;
+}
+
+.ifyoulike {
+  padding-bottom: 30px;
+
+}
+
+.twitterpic {
+  padding: 50px;
+}
+
+.skillsclass {
+  padding-bottom: 100px;
+}
+
+a {
+  color: #000000;
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  text-decoration: none;
+
+
+
+}
+
+a:hover {
+  color: #EAF6F6
+}
+
+.weight {
+  text-decoration: underline;
+}
